@@ -82,5 +82,3 @@ User Query → LLM Response → Evaluation Pipeline
 
 * Falls back to heuristic evaluation if no API key is provided
 * Designed to be easily extended or deployed as a microservice
-
-```
